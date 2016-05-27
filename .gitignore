@@ -1,10 +1,10 @@
 # Created by .ignore support plugin (hsz.mobi)
 .gradle/
 .idea/
-OldDriver.iml
-app/app.iml
+*.iml
+app/*.iml
 app/build/
 build/
 local.properties
 third_party/bypass/build/
-third_party/bypass/bypass.iml
+third_party/bypass/*.iml
