@@ -56,6 +56,7 @@ import io.plaidapp.util.glide.CircleTransform;
  *  – About Plaid
  *  – Credit Roman for the awesome icon
  *  – Credit libraries
+ *  monkey
  */
 public class AboutActivity extends Activity {
 
