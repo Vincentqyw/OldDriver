@@ -18,7 +18,7 @@
 <resources>
 
     <!-- global -->
-    <string name="app_name">Plaid</string>
+    <string name="app_name">老司机</string>
     <string name="no_comments">no comments</string>
     <string name="login_to">Log in to</string>
     <string name="need_login">Woah there chief. First you\'ll need&#160;to</string> <!-- &#160; == nbsp -->
