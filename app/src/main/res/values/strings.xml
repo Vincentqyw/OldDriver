@@ -18,9 +18,9 @@
 <resources>
 
     <!-- global -->
-    <string name="app_name">Old Driver</string>
+    <string name="app_name">老司机</string>
     <string name="no_comments">no comments</string>
-    <string name="login_to">Log in to</string>
+    <string name="login_to">登录到</string>
     <string name="need_login">Woah there chief. First you\'ll need&#160;to</string> <!-- &#160; == nbsp -->
     <string name="dribbble_logged_in_as">Logged in as</string>
     <string name="comment">Comment</string>
@@ -29,7 +29,7 @@
     <!-- main screen -->
     <string name="search">Search</string>
     <string name="filter">Filter</string>
-    <string name="about">About</string>
+    <string name="about">关于</string>
     <string name="dribbble_login">Log in to Dribbble</string>
     <string name="dribbble_log_out">Log out of Dribbble</string>
     <string name="dribbble_logged_out">Logged out of Dribbble</string>
