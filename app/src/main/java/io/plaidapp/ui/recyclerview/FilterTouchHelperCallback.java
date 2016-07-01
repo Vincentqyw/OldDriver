@@ -22,7 +22,7 @@ import android.support.v7.widget.helper.ItemTouchHelper;
 import io.plaidapp.ui.FilterAdapter;
 
 /**
- * Callback for item swipe-dismissing
+ * Callback for item
  */
 public class FilterTouchHelperCallback extends ItemTouchHelper.SimpleCallback {
 
